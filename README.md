@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/SAliMotamedi?v=4" width="120" style="border-radius: 50%;" />
 
-**SAliMotamedi/SAliMotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Sayed Ali Motamedi
 
-Here are some ideas to get you started:
+🎯 **Laravel Developer** at a leading crowdfunding company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4F46E5?style=for-the-badge)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
+🌟 Building modern, scalable, and beautiful web applications with a passion for clean code and great user experience.
+
+</div>
