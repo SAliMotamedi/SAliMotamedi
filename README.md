@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/SAliMotamedi?v=4" width="120" style="border-radius: 50%;" />
 
 ## 👋 Hi, I'm Sayed Ali Motamedi
 
